@@ -1,0 +1,17 @@
+{
+  "name": "colorbrewer",
+  "version": "1.0.0",
+  "description": "Color specifications by Cynthia Brewer (http://colorbrewer.org/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XavierGimenez/color-brewer"
+  },
+  "author": {
+    "name": "Cynthia Brewer",
+    "uri": "http://www.personal.psu.edu/cab38/"
+  },
+  "license": "Apache-Style",
+  "main": "colorbrewer.js",
+  "scripts": ["colorbrewer.js"],
+  "homepage": "http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer_updates.html"
+}
